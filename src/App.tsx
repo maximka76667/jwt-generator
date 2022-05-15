@@ -1,11 +1,11 @@
 import React from 'react';
-import './App.css';
-import Input from './features/input/Input';
+import './App.sass';
+import Generator from './features/generator/Generator';
 
 function App() {
   return (
     <div className="app">
-      <Input />
+      <Generator />
     </div>
   );
 }

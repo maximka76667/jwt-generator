@@ -1,9 +1,9 @@
 import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
-import inputReducer from '../features/input/inputSlice';
+import jwtReducer from '../features/generator/generatorSlice';
 
 export const store = configureStore({
   reducer: {
-    input: inputReducer,
+    jwt: jwtReducer,
   },
 });
 

@@ -1,0 +1,36 @@
+@import "../../sass/mixins"
+
+.generator
+  width: 30%
+  padding: 40px
+  display: flex
+  justify-content: center
+  align-items: center
+  flex-direction: column
+  border-radius: 15px
+  background-color: #515BE8
+  color: #fff
+
+  @include lg
+    width: 40%
+
+  @include md
+    width: 50%
+
+  @include sm
+    width: 100%
+    padding: 30px 10px
+    font-size: 0.8em
+
+  &__button
+    width: 50%
+    height: 50px
+    border-radius: 15px
+    border: 0
+    transition: all 0.2s
+
+    &:hover
+      box-shadow: 0 0 0 3px #000, 0 0 0 5px #fff
+
+  &__text
+    margin: 40px 0 0

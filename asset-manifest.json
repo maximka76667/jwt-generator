@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/jwt-generator/static/css/main.6dae0787.css",
-    "main.js": "/jwt-generator/static/js/main.17290000.js",
+    "main.css": "/jwt-generator/static/css/main.8a720627.css",
+    "main.js": "/jwt-generator/static/js/main.c98d1677.js",
     "static/js/787.5ed374af.chunk.js": "/jwt-generator/static/js/787.5ed374af.chunk.js",
+    "static/media/NotoSans-Thin.ttf": "/jwt-generator/static/media/NotoSans-Thin.f8eb04149ef4682fef3d.ttf",
+    "static/media/NotoSans-Bold.ttf": "/jwt-generator/static/media/NotoSans-Bold.23e70cfbbe0783c66804.ttf",
+    "static/media/NotoSans-Regular.ttf": "/jwt-generator/static/media/NotoSans-Regular.eae34fa8f1e0c4c6d797.ttf",
     "index.html": "/jwt-generator/index.html",
-    "main.6dae0787.css.map": "/jwt-generator/static/css/main.6dae0787.css.map",
-    "main.17290000.js.map": "/jwt-generator/static/js/main.17290000.js.map",
+    "main.8a720627.css.map": "/jwt-generator/static/css/main.8a720627.css.map",
+    "main.c98d1677.js.map": "/jwt-generator/static/js/main.c98d1677.js.map",
     "787.5ed374af.chunk.js.map": "/jwt-generator/static/js/787.5ed374af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dae0787.css",
-    "static/js/main.17290000.js"
+    "static/css/main.8a720627.css",
+    "static/js/main.c98d1677.js"
   ]
 }

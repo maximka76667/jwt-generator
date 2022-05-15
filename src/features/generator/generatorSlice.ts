@@ -6,7 +6,7 @@ export interface GeneratorState {
 }
 
 const initialState: GeneratorState = {
-  value: "",
+  value: "Place for your token",
 }
 
 export const generatorSlice = createSlice({
